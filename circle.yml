@@ -1,5 +1,6 @@
 dependencies:
     override:
+#        - sudo pip install awscli
         - sudo pip install awscli
 deployment:
   prod:
