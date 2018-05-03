@@ -6,3 +6,4 @@ deployment:
     branch: master
     commands:
       - aws s3 sync ~/S3ContinuousDeploy s3://s3awscd09 --delete
+
